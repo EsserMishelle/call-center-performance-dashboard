@@ -1,4 +1,5 @@
 # Call Center Performance Dashboard
+<img src="dashboard.jpg" alt="dashboard" width='800' height='600'>
 
 ## Objective
 
